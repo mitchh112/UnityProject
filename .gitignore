@@ -60,3 +60,5 @@ crashlytics-build.properties
 
 # Ignore Library Files bigger them 100MB
 Library/
+Builds/
+build/
