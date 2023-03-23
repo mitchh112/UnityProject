@@ -59,4 +59,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Ignore Library Files bigger them 100MB
-\Apes Strong\Library
+\Apes Strong\Library\
