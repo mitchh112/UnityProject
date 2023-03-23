@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Ignore Library Files bigger them 100MB
+\UnityProject\Apes Strong\Library
